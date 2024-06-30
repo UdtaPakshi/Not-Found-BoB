@@ -8,3 +8,10 @@ Leverage generative AI to create personalized marketing content for customers, e
 - Recommend personalized offers and coupons based on users' spending habits derived from their financial statements and chatbot interactions.
 - Support multiple languages to make the platform and chatbot accessible to a diverse customer base.
 - Provide personalized financial advice aligned with user goals, needs, and financial statements, ensuring users receive relevant and actionable insights."
+
+![Architecture of AI Agents](https://github.com/UdtaPakshi/Not-Found-BoB/blob/main/architecture_agent.png)
+
+![Flowchart showing financial literacy content genaration](https://github.com/UdtaPakshi/Not-Found-BoB/blob/main/financial_literacy_flowchart.png)
+
+
+![Flowchart showing LLM agent reccomending coupons](https://github.com/UdtaPakshi/Not-Found-BoB/blob/main/savings_coupons_flowchart.png)
